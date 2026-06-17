@@ -74,9 +74,3 @@ The goal of this project is to transform raw ecommerce transaction data into mea
 
 ---
 
-## Dashboard Preview
-
-Add a screenshot of your dashboard here.
-
-```markdown
-![Dashboard Preview](dashboard.png)
